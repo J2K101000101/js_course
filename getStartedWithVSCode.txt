@@ -1,0 +1,18 @@
+Once you have installed VSCode
+
+1. create your first project folder
+2. creat a html file, named as index.html
+3. check out on source control
+    a. make sure you have git already. Go to terminal and type in git -v to check.
+    b. create a new repository 
+    c. if any change, Stage: track the change -> add message -> Commit
+
+    * if your git is not configured...try:
+        git config --global user.name "Your Name"
+        git config --global user.email "your.email@example.com"
+
+    d publish (push to your github)
+
+
+
+More about VS Code, see: https://code.visualstudio.com/docs/getstarted/getting-started
