@@ -13,6 +13,7 @@ Once you have installed VSCode
 
     d publish (push to your github)
 
+4. Use AI with Github Copilot, please remember to use it smartly (see week 2 discussion)!
 
 
 More about VS Code, see: https://code.visualstudio.com/docs/getstarted/getting-started
