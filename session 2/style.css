@@ -1,0 +1,26 @@
+/* 2.4.2 :What can be overwritten in the example? */
+
+/* single type  selector */  
+p{
+      color: purple;
+      font-size:150;
+}
+    
+h1{
+      color: blue;
+      text-align: center;
+
+}
+
+/* multiple type selector */
+head,body {
+    width: 100%;
+    height: 100%;
+    color: red;
+}
+
+/* univeral selector */
+*{
+    background-color: yellowgreen;
+}
+
